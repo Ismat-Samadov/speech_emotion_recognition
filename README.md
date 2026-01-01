@@ -813,14 +813,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📧 Contact
-
-**Ismat Samadov**
-- 🐙 GitHub: [@Ismat-Samadov](https://github.com/Ismat-Samadov)
-- 📁 Project: [Speech Emotion Recognition](https://github.com/Ismat-Samadov/speech_emotion_recognition)
-
----
-
 ## ⭐ Acknowledgments
 
 This project was developed with assistance from **Claude Code** by Anthropic, demonstrating the power of AI-assisted software development.
@@ -831,17 +823,3 @@ Special thanks to:
 - Academic researchers advancing the field of speech emotion recognition
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-
-**Built with ❤️ and 🎵**
-
-[⬆ Back to Top](#-speech-emotion-recognition-using-deep-learning)
-
-</div>
